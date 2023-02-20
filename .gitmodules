@@ -7,3 +7,6 @@
 [submodule "akather-vr-mob"]
 	path = akather-vr-mob
 	url = https://github.com/Akather-io/akather-vr-mob
+[submodule "cantoverse-app"]
+	path = cantoverse-app
+	url = https://github.com/Akather-io/cantoverse-app
