@@ -1,0 +1,6 @@
+[submodule "Akather-WebGL"]
+	path = Akather-WebGL
+	url = https://github.com/Akather-io/Akather-WebGL
+[submodule "cantoverse-contract"]
+	path = cantoverse-contract
+	url = https://github.com/Akather-io/cantoverse-contract
