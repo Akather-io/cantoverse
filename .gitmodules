@@ -4,3 +4,6 @@
 [submodule "cantoverse-contract"]
 	path = cantoverse-contract
 	url = https://github.com/Akather-io/cantoverse-contract
+[submodule "akather-vr-mob"]
+	path = akather-vr-mob
+	url = https://github.com/Akather-io/akather-vr-mob
